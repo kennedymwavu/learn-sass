@@ -1,4 +1,4 @@
-# learn-scss
+# learn-sass
 
-- What is scss?
+- What is sass?
 - Where and how can I use it?
